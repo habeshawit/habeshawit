@@ -16,9 +16,7 @@
   
 #### Glad to see you here!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${habeshawit}.${habeshawit}) 
 
-I am a graduate of the Software Engineering program at Flatiron School and a current Computer Science student. With experience in Ruby on Rails, React, Redux, and JavaScript based programming and a background in banking, I became passionate about programming through my responsibilities as a Research & Product Development Analyst. I loved working on and researching technical products that give businesses competitive advantage, augmenting customer acquisition and retention and allowing businesses to better meet customer needs. 
-
-But beyond business, I love learning new skills and building useful tools that simplify life. Being a web developer allows me to connect and communicate with an audience through my passion of creating technological solutions by utilizing my problem solving, logical and creative skills.
+I am a graduate of the Software Engineering program at Flatiron School and a current Computer Science student. I love learning new skills and building useful tools that simplify life. Being a web developer allows me to connect and communicate with an audience through my passion of creating technological solutions by utilizing my problem solving, logical and creative skills.
 
 - 🔭 I’m currently working on [Vanilla JS 30 Day Challenge](https://javascript30.com/)
 - 🌱 I’m currently learning [JavaScript Algorithms and Data Structures](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
@@ -31,11 +29,6 @@ But beyond business, I love learning new skills and building useful tools that s
 
 <!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shalom) -->
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka--> 
 
 #### Recent Projects
 + [Simple Sales](https://github.com/habeshawit/react-project-frontend/tree/refactorBranch): A ReactJS/Redux app where users to buy and sell items from one another
