@@ -37,7 +37,7 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka--> 
 
-##### Recent Projects
+#### Recent Projects
 + [Simple Sales](https://github.com/habeshawit/react-project-frontend/tree/refactorBranch): A ReactJS/Redux app where users to buy and sell items from one another
 + [Divine Flavor](https://github.com/habeshawit/divine-flavor): A social recipe management app where users can create, save recipes, make friends and get inspiration from others.
 + [My Devotional](https://github.com/habeshawit/js_project_backend): A Vanilla JavaScript app. Its an online devotional app where users can save daily bible devotions and scripture reflections
