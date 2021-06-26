@@ -8,3 +8,4 @@ I am a graduate of the Software Engineering program at Flatiron School and a cur
 - 📫 How to reach me: shalomseleshi@gmail.com
 - ⚡ Fun fact: I love culture and travel!
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=${habeshawit}.${habeshawit})
