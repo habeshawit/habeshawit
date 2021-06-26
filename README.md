@@ -5,7 +5,6 @@ I am a graduate of the Software Engineering program at Flatiron School and a cur
 - 🔭 I’m currently working on my personal portfolio website
 - 🌱 I’m currently learning Javacript
 - 👯 I’m looking to collaborate on anything at the moment
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: shalomseleshi@gmail.com
 - ⚡ Fun fact: I love culture and travel!
 
