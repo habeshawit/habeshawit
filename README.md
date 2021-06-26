@@ -9,3 +9,6 @@ I am a graduate of the Software Engineering program at Flatiron School and a cur
 - ⚡ Fun fact: I love culture and travel!
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=habeshawit&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka--> 
