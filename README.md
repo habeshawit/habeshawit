@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Shalom 
+![Image of Yaktocat](https://github.com/habeshawit/habeshawit/blob/main/header.png)
   
 #### Glad to see you here!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${habeshawit}.${habeshawit})   
 
