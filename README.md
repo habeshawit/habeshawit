@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://github.com/habeshawit/habeshawit/blob/main/header.png)
+![Image of Yaktocat](https://github.com/habeshawit/habeshawit/blob/main/Adventure%20Script%20Facebook%20Cover%20(2).gif)
   
 #### Glad to see you here!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${habeshawit}.${habeshawit})   
 
