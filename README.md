@@ -1,5 +1,6 @@
 ![Image of Yaktocat](https://github.com/habeshawit/habeshawit/blob/main/Adventure%20Script%20Facebook%20Cover%20(2).gif)
-  
+### Hi there 👋
+
 #### Glad to see you here!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${habeshawit}.${habeshawit})   
 
 I am a graduate of the Software Engineering program at Flatiron School and a current Computer Science student. I love learning new skills and building useful tools that simplify life. 
