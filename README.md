@@ -2,9 +2,6 @@
   
 #### Glad to see you here!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${habeshawit}.${habeshawit})   
 
-<img style="height:15px; width:10px" src="https://github.com/habeshawit/habeshawit/blob/main/Shalom%20SK.gif?raw=true"/>
-
-
 I am a graduate of the Software Engineering program at Flatiron School and a current Computer Science student. I love learning new skills and building useful tools that simplify life. 
 
 - 🔭 I’m currently working on [Vanilla JS 30 Day Challenge](https://javascript30.com/)
