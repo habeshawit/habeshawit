@@ -1,5 +1,16 @@
 ### Hi there 👋  I'm Shalom 
+  
+#### Glad to see you here!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${habeshawit}.${habeshawit}) 
 
+I am a graduate of the Software Engineering program at Flatiron School and a current Computer Science student. I love learning new skills and building useful tools that simplify life. Being a web developer allows me to connect and communicate with an audience through my passion of creating technological solutions by utilizing my problem solving, logical and creative skills.
+
+- 🔭 I’m currently working on [Vanilla JS 30 Day Challenge](https://javascript30.com/)
+- 🌱 I’m currently learning [JavaScript Algorithms and Data Structures](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
+- 👯 I’m looking to collaborate on anything at the moment
+- 📫 How to reach me: shalomseleshi@gmail.com
+- ⚡ Fun fact: I love culture and travel!
+
+#### Connect with me
 <a href="https://www.linkedin.com/in/shalom-kebede/">
   <img
     alt="Linkedin"
@@ -13,16 +24,6 @@
   />
 </a>
 
-  
-#### Glad to see you here!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${habeshawit}.${habeshawit}) 
-
-I am a graduate of the Software Engineering program at Flatiron School and a current Computer Science student. I love learning new skills and building useful tools that simplify life. Being a web developer allows me to connect and communicate with an audience through my passion of creating technological solutions by utilizing my problem solving, logical and creative skills.
-
-- 🔭 I’m currently working on [Vanilla JS 30 Day Challenge](https://javascript30.com/)
-- 🌱 I’m currently learning [JavaScript Algorithms and Data Structures](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
-- 👯 I’m looking to collaborate on anything at the moment
-- 📫 How to reach me: shalomseleshi@gmail.com
-- ⚡ Fun fact: I love culture and travel!
 
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=habeshawit&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habeshawit"/>
 
