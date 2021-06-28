@@ -11,7 +11,7 @@ I am a graduate of the Software Engineering program at Flatiron School and a cur
 - 📫 How to reach me: shalomseleshi@gmail.com || [Portfolio](http://shalomsk.me)
 - ⚡ Fun fact: I love culture and travel!
 
-Skills: React.js / JavaScript / HTML / CSS / Bootstrap / Ruby / Rails /
+Skills: React.js / JavaScript / HTML / CSS / Bootstrap / Ruby / Rails / SQL / Bootstrap / Redux
 
 #### Connect with me
 <a href="https://www.linkedin.com/in/shalom-kebede/">
