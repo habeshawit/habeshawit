@@ -1,4 +1,6 @@
-![Jumbotron](https://github.com/habeshawit/habeshawit/blob/main/Adventure%20Script%20Facebook%20Cover%20(2).gif)
+<!-- ![Jumbotron](https://github.com/habeshawit/habeshawit/blob/main/Adventure%20Script%20Facebook%20Cover%20(2).gif) -->
+![Jumbotron](https://github.com/habeshawit/habeshawit/blob/main/Adventure%20Script%20Facebook%20Cover%20(8).gif)
+
 ### Hi there! 👋
 
 #### Glad to see you here!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${habeshawit}.${habeshawit})   
