@@ -1,5 +1,5 @@
 ![Image of Yaktocat](https://github.com/habeshawit/habeshawit/blob/main/Adventure%20Script%20Facebook%20Cover%20(2).gif)
-### Hi there 👋
+### Hi there! 👋
 
 #### Glad to see you here!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${habeshawit}.${habeshawit})   
 
@@ -17,13 +17,13 @@ Skills: React.js / JavaScript / HTML / CSS / Bootstrap / Ruby / Rails / SQL / Bo
 <a href="https://www.linkedin.com/in/shalom-kebede/">
   <img
     alt="Linkedin"
-    src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=flat"
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
   />
 </a>
 <a href="https://twitter.com/shalomsk6">
   <img
     alt="Twitter"
-    src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat"
+    src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
   />
 </a>
 
