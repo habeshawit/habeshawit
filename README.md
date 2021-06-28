@@ -5,10 +5,10 @@
 
 I am a graduate of the Software Engineering program at Flatiron School and a current Computer Science student. I love learning new skills and building useful tools that simplify life. 
 
-- 🔭 I’m currently working on [Vanilla JS 30 Day Challenge](https://javascript30.com/)
+- 🔭 I’m currently working on [Vanilla JS 30 Day Challenge](https://javascript30.com/) & sharpening my skill in Javascript
 - 🌱 I’m currently learning [JavaScript Algorithms and Data Structures](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
 - 👯 I’m looking to collaborate on anything at the moment
-- 📫 How to reach me: shalomseleshi@gmail.com
+- 📫 How to reach me: shalomseleshi@gmail.com || [Portfolio](http://shalomsk.me)
 - ⚡ Fun fact: I love culture and travel!
 
 Skills: React.js / JavaScript / HTML / CSS / Bootstrap / Ruby / Rails /
