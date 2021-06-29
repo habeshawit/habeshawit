@@ -1,5 +1,5 @@
 <!-- ![Jumbotron](https://github.com/habeshawit/habeshawit/blob/main/Adventure%20Script%20Facebook%20Cover%20(2).gif) -->
-![Jumbotron](https://github.com/habeshawit/habeshawit/blob/main/Adventure%20Script%20Facebook%20Cover%20(8).gif)
+<!-- ![Jumbotron](https://github.com/habeshawit/habeshawit/blob/main/Adventure%20Script%20Facebook%20Cover%20(8).gif) -->
 
 ### Hi there! 👋
 
@@ -34,7 +34,7 @@ Skills: React.js / JavaScript / HTML / CSS / Bootstrap / Ruby / Rails / SQL / Bo
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=habeshawit&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habeshawit"/>
 
 
-<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shalom) -->
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shalom)
 <hr>
 
 #### Recent Projects
