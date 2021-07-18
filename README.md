@@ -33,6 +33,8 @@ Skills: React.js / JavaScript / HTML / CSS / Bootstrap / Ruby / Rails / SQL / Bo
 
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=habeshawit&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habeshawit"/>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shalom) -->
 <hr>
