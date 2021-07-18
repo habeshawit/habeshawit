@@ -34,6 +34,12 @@ Skills: React.js / JavaScript / HTML / CSS / Bootstrap / Ruby / Rails / SQL / Bo
 <img height="190em" src="https://github-readme-stats.vercel.app/api?username=habeshawit&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habeshawit"/>
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   22 hrs 22 mins  ██████████████████▒░░░░░░   72.72 % 
+CSS          5 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.27 % 
+HTML         1 hr 46 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Ruby         1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+```
 <!--END_SECTION:waka-->
 
 <!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shalom) -->
