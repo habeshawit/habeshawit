@@ -5,7 +5,7 @@
 
 #### Glad to see you here!   ![visitors](https://visitor-badge.glitch.me/badge?page_id=${habeshawit}.${habeshawit})   
 
-I am a graduate of the Software Engineering program at Flatiron School and a current Computer Science student. I love learning new skills and building useful tools that simplify life. 
+I am a graduate of the Software Engineering program at Flatiron School. I love learning new skills and building useful tools that simplify life. 
 
 - 🔭 I’m currently working on [Vanilla JS 30 Day Challenge](https://javascript30.com/) & sharpening my skill in Javascript
 - 🌱 I’m currently learning [JavaScript Algorithms and Data Structures](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
