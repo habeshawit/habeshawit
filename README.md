@@ -37,10 +37,10 @@ Skills: React.js / JavaScript / HTML / CSS / Bootstrap / Ruby / Rails / SQL / Bo
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   8 hrs 34 mins   █████████████████░░░░░░░░   68.63 % 
-CSS          2 hrs 48 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.53 % 
-HTML         47 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
-Ruby         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+JavaScript   6 hrs 16 mins   ████████████████████░░░░░   79.86 % 
+CSS          52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+HTML         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+Ruby         19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 ```
 <!--END_SECTION:waka-->
 
