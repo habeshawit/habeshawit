@@ -36,10 +36,9 @@ Skills: React.js / JavaScript / HTML / CSS / Bootstrap / Ruby / Rails / SQL / Bo
 <b>Wakatime Stats:</b><br><br> -->
 
 <!--START_SECTION:waka-->
-<!--
 ```text
 No Activity tracked this Week
-```-->
+```
 <!--END_SECTION:waka-->
 
 <!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shalom) -->
